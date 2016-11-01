@@ -18,7 +18,7 @@ namespace us_eu_unet
                 Console.Clear();
                 Console.WriteLine("hvad vil du gerne vælge");
                 Console.WriteLine("");
-                Console.WriteLine("A: Tablespoon til gram \n\nB:Teaspoon til ML \n\nC:Ounce til ML eller Gram \n\nD: Pound til Gram/KG \n\nE: Cup til DL");
+                Console.WriteLine("A: Tablespoon til gram \n\nB:Teaspoon til ML \n\nC:Ounce til ML eller Gram \n\nD: Pound til Gram \n\nE: Cup til DL");
                 string valg = Console.ReadLine();
 
                 #region Tablespoon "a"
