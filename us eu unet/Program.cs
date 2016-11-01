@@ -164,7 +164,6 @@ namespace us_eu_unet
                         Console.WriteLine("\nTryk Enter for at forsætte");
                         Console.ReadLine();
 
-
                     }
 
 
